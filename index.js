@@ -43,6 +43,3 @@ async function writeFile(filename, data) {
 }
 
 export default veryTinyDB;
-
-// const vtb = veryTinyDB;
-// await vtb.remove('myDB.json', 'a');
