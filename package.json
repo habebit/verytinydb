@@ -1,0 +1,31 @@
+{
+  "name": "verytinydb",
+  "version": "1.0.0",
+  "description": "very tiny db",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habebit/verytinydb.git"
+  },
+  "keywords": [
+    "database",
+    "very",
+    "tiny",
+    "db",
+    "json"
+  ],
+  "author": "Benedikt Handschuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habebit/verytinydb/issues"
+  },
+  "homepage": "https://github.com/habebit/verytinydb#readme",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
